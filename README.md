@@ -1,2 +1,2 @@
 # music-lib
-take 2
+This is my music library project

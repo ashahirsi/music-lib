@@ -1,0 +1,25 @@
+{
+  "name": "music-lib",
+  "version": "1.0.0",
+  "description": "This is my music library project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashahirsi/music-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashahirsi/music-lib/issues"
+  },
+  "homepage": "https://github.com/ashahirsi/music-lib#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
